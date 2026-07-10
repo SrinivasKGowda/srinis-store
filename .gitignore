@@ -1,0 +1,6 @@
+target/
+*.class
+.idea/
+*.iml
+uploads/products/*
+!uploads/products/.gitkeep
